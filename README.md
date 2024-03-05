@@ -1,1 +1,4 @@
-# challenge-conflit
+challenge sur les conflits de fusion
+nous allons voir comment resoudre 
+les conflis de fusion 
+appretez-vous!
